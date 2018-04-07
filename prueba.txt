@@ -22,4 +22,6 @@ def mtdprint():
 def mtdwhile():
 	
 def mtdvariable():
+
+< Definir cada metodo para una funcion del BNF !>
 	
